@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Prediction Result";
+}
+
+<h3>Prediction Result</h3>
+
+<p><strong>Title:</strong> @ViewBag.Title</p>
+<p><strong>Description:</strong> @ViewBag.Description</p>
+<p><strong>Predicted Category:</strong> <span class="text-success">@ViewBag.Category</span></p>
+
+<a href="/Ticket/Index" class="btn btn-secondary mt-3">Try Another</a>

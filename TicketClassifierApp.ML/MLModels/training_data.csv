@@ -1,0 +1,101 @@
+Title,Description,Category
+App not opening on iOS,iOS version crashes immediately after opening,Feature
+Search function broken,Search returns no results even with valid input,Account
+Cannot change email,User is unable to update email address,Bug
+Slow report generation,Reports take too long to load,Bug
+Forgot password reset not working,User cannot reset password via email,Login
+App crashes on login,Application shuts down after entering credentials,Login
+Export feature missing,No option to export data from the dashboard,Feature
+Refund not received,Customer did not get refund after 7 days,Account
+Double charge on invoice,Customer charged twice for the same service,Billing
+Add dark mode option,Request to add dark mode in settings,Login
+App crashes on login,Application shuts down after entering credentials,Login
+Double charge on invoice,Customer charged twice for the same service,Login
+App crashes on login,Application shuts down after entering credentials,Bug
+App not opening on iOS,iOS version crashes immediately after opening,Account
+2FA not working,User does not receive authentication code,Login
+System lagging,App freezes when loading dashboard,Feature
+Account suspended without reason,User account suspended without explanation,Feature
+2FA not working,User does not receive authentication code,Feature
+Export feature missing,No option to export data from the dashboard,Billing
+Add dark mode option,Request to add dark mode in settings,Billing
+Search function broken,Search returns no results even with valid input,Performance
+Login with Google fails,OAuth2 login is broken,Performance
+Add dark mode option,Request to add dark mode in settings,Login
+Forgot password reset not working,User cannot reset password via email,Login
+Unable to process payment,Payment fails with credit card,Billing
+Request for dark mode,User wants dark mode feature added,Feature
+Forgot password reset not working,User cannot reset password via email,Account
+System lagging,App freezes when loading dashboard,Login
+Forgot password reset not working,User cannot reset password via email,Login
+Unable to process payment,Payment fails with credit card,Feature
+System lagging,App freezes when loading dashboard,Feature
+Add dark mode option,Request to add dark mode in settings,Login
+Add dark mode option,Request to add dark mode in settings,Login
+Refund not received,Customer did not get refund after 7 days,Billing
+Forgot password reset not working,User cannot reset password via email,Login
+Cannot change email,User is unable to update email address,Account
+Can't update profile,Error when saving profile changes,Billing
+Forgot password reset not working,User cannot reset password via email,Performance
+2FA not working,User does not receive authentication code,Performance
+Forgot password reset not working,User cannot reset password via email,Feature
+Slow report generation,Reports take too long to load,Bug
+App not opening on iOS,iOS version crashes immediately after opening,Performance
+Slow report generation,Reports take too long to load,Account
+Forgot password reset not working,User cannot reset password via email,Feature
+Unable to process payment,Payment fails with credit card,Performance
+App not opening on iOS,iOS version crashes immediately after opening,Login
+Double charge on invoice,Customer charged twice for the same service,Billing
+Login with Google fails,OAuth2 login is broken,Bug
+Feature request: export to CSV,User wants to export reports to CSV,Billing
+Unable to process payment,Payment fails with credit card,Account
+Unable to process payment,Payment fails with credit card,Bug
+2FA not working,User does not receive authentication code,Billing
+Login with Google fails,OAuth2 login is broken,Billing
+Unable to process payment,Payment fails with credit card,Performance
+Search function broken,Search returns no results even with valid input,Performance
+Search function broken,Search returns no results even with valid input,Login
+System lagging,App freezes when loading dashboard,Account
+Refund not received,Customer did not get refund after 7 days,Billing
+Forgot password reset not working,User cannot reset password via email,Feature
+Slow report generation,Reports take too long to load,Bug
+Double charge on invoice,Customer charged twice for the same service,Login
+Add dark mode option,Request to add dark mode in settings,Feature
+App not opening on iOS,iOS version crashes immediately after opening,Feature
+Request for dark mode,User wants dark mode feature added,Billing
+System lagging,App freezes when loading dashboard,Performance
+Slow report generation,Reports take too long to load,Feature
+Slow report generation,Reports take too long to load,Feature
+App not opening on iOS,iOS version crashes immediately after opening,Login
+Request for dark mode,User wants dark mode feature added,Account
+2FA not working,User does not receive authentication code,Login
+2FA not working,User does not receive authentication code,Login
+Login with Google fails,OAuth2 login is broken,Account
+Add dark mode option,Request to add dark mode in settings,Billing
+Cannot upload profile picture,Upload fails with a server error,Bug
+Forgot password reset not working,User cannot reset password via email,Feature
+Export feature missing,No option to export data from the dashboard,Account
+Search function broken,Search returns no results even with valid input,Login
+Double charge on invoice,Customer charged twice for the same service,Login
+Login with Google fails,OAuth2 login is broken,Account
+App performance poor after update,App slower after recent update,Login
+Add dark mode option,Request to add dark mode in settings,Bug
+Slow report generation,Reports take too long to load,Account
+Slow report generation,Reports take too long to load,Bug
+App crashes on login,Application shuts down after entering credentials,Account
+App not opening on iOS,iOS version crashes immediately after opening,Account
+Slow report generation,Reports take too long to load,Account
+Feature request: export to CSV,User wants to export reports to CSV,Feature
+App performance poor after update,App slower after recent update,Login
+Refund not received,Customer did not get refund after 7 days,Bug
+System lagging,App freezes when loading dashboard,Billing
+Can't update profile,Error when saving profile changes,Feature
+App crashes on login,Application shuts down after entering credentials,Billing
+Cannot change email,User is unable to update email address,Billing
+2FA not working,User does not receive authentication code,Performance
+App performance poor after update,App slower after recent update,Account
+App performance poor after update,App slower after recent update,Account
+Account suspended without reason,User account suspended without explanation,Billing
+Forgot password reset not working,User cannot reset password via email,Performance
+Account suspended without reason,User account suspended without explanation,Bug
+App performance poor after update,App slower after recent update,Billing
